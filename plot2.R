@@ -1,7 +1,7 @@
 # program to create a plot from the "household_power_consumption.txt" file
 # to solve the Course Project 1 of the Exploratory Data Analysis course
 # to run it needs the "data.table" package installed
-# for more info about data loading methods please look at: LargeDatasetInputMethod.R
+# for more info about data loading methods please look at: LargeDatasetInputMethods.R
 
 # Calculating the approx memory requirements:
 # The dataset has 2,075,259 rows and 9 columns, let's say all input is numeric
