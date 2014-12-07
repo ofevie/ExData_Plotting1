@@ -2,6 +2,7 @@
 ## Results
 
 The instructions for the Course Project 1 are explained below.
+The code makes use of the 'fread' function from the data.table package.
 The resulting files are:
 
 * plot1.R
@@ -13,8 +14,6 @@ The corresponding created plots (plot1.png, plot2.png, etc) are in the folder 'p
 A study on the way to load the data into the system is on the file:
 
 * LargeDatasetInputMethods.R
-
-The code in the 'plotX.R' makes use of the 'fread' function from the data.table package.
 
 ## Introduction
 
